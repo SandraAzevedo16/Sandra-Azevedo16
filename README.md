@@ -1,4 +1,23 @@
-Sou editora contábil com uma trajetória marcada pela curiosidade constante, dinamismo e paixão por aprender. Ao longo da minha carreira, sempre busquei entender os dados por trás dos números e transformar a informação em algo útil, visual e estratégico para a tomada de decisão.
-Foi justamente esse olhar investigativo que me levou ao universo da análise de dados, onde encontrei no Power BI uma ferramenta poderosa para dar vida às informações. Desde então, venho aprofundando meus conhecimentos na criação de dashboards interativos, modelagem de dados, uso de DAX e construção de relatórios que fazem sentido para o negócio.
-Minha formação contábil me dá uma base sólida para entender métricas financeiras e operacionais, e meu perfil dinâmico me impulsiona a ir além dos números, buscando sempre soluções práticas e visualmente eficazes.
-Atualmente, estou focada em projetos de análise de dados que unam clareza visual, insights estratégicos e apoio à decisão, e sigo em constante aprendizado para evoluir como profissional e contribuir de forma cada vez mais significativa com as organizações e com a comunidade de dados.
+# 👩‍💻 Sobre Mim
+ 
+Olá! Sou **Alexandra Vidal**, editora contábil de formação, com uma mente analítica, curiosa e apaixonada por aprender. Ao longo da minha trajetória profissional, desenvolvi uma forte afinidade com **dados** e com a forma como eles podem contar histórias e apoiar decisões estratégicas.
+ 
+## 🚀 Transição para Análise de Dados
+ 
+Minha experiência com números e relatórios contábeis despertou em mim o interesse em compreender os dados de forma mais profunda. Foi então que descobri o universo da **Análise de Dados**, onde encontrei no **Power BI** uma ferramenta poderosa para transformar informações brutas em painéis visuais, interativos e cheios de significado.
+ 
+Hoje, aplico meus conhecimentos para:
+ 
+- Construir **dashboards interativos** com foco em insights de negócio
+- Realizar **modelagem de dados** eficiente
+- Utilizar **DAX** para criar métricas e indicadores personalizados
+- Interpretar e traduzir **dados financeiros e operacionais** em visualizações estratégicas
+ 
+## 💡 Meu Estilo
+ 
+Sou uma profissional **dinâmica, autodidata e entusiasta da tecnologia**. Acredito que dados bem apresentados podem mudar a forma como as organizações tomam decisões – e é isso que me motiva todos os dias.
+ 
+---
+ 
+📊 *Sigo em constante evolução, estudando, praticando e compartilhando conhecimento no mundo da Análise de Dados. Se quiser trocar ideias ou acompanhar meus projetos, seja muito bem-vindo(a) por aqui!*
+ 
