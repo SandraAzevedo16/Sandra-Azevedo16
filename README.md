@@ -1,1 +1,4 @@
-# Sandra-Azevedo16
+Sou editora contábil com uma trajetória marcada pela curiosidade constante, dinamismo e paixão por aprender. Ao longo da minha carreira, sempre busquei entender os dados por trás dos números e transformar a informação em algo útil, visual e estratégico para a tomada de decisão.
+Foi justamente esse olhar investigativo que me levou ao universo da análise de dados, onde encontrei no Power BI uma ferramenta poderosa para dar vida às informações. Desde então, venho aprofundando meus conhecimentos na criação de dashboards interativos, modelagem de dados, uso de DAX e construção de relatórios que fazem sentido para o negócio.
+Minha formação contábil me dá uma base sólida para entender métricas financeiras e operacionais, e meu perfil dinâmico me impulsiona a ir além dos números, buscando sempre soluções práticas e visualmente eficazes.
+Atualmente, estou focada em projetos de análise de dados que unam clareza visual, insights estratégicos e apoio à decisão, e sigo em constante aprendizado para evoluir como profissional e contribuir de forma cada vez mais significativa com as organizações e com a comunidade de dados.
