@@ -1,6 +1,6 @@
 # 👩‍💻 Sobre Mim
  
-Olá! Sou **Alexandra Vidal**, editora contábil de formação, com uma mente analítica, curiosa e apaixonada por aprender. Ao longo da minha trajetória profissional, desenvolvi uma forte afinidade com **dados** e com a forma como eles podem contar histórias e apoiar decisões estratégicas.
+Olá! Sou **Sandra Azevedo**, editora contábil de formação, com uma mente analítica, curiosa e apaixonada por aprender. Ao longo da minha trajetória profissional, desenvolvi uma forte afinidade com **dados** e com a forma como eles podem contar histórias e apoiar decisões estratégicas.
  
 ## 🚀 Transição para Análise de Dados
  
